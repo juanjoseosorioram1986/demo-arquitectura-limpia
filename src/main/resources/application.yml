@@ -1,0 +1,6 @@
+server:
+  port: 8443  
+
+innerClient:
+  host: localhost
+  port: 8443
