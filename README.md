@@ -2,7 +2,7 @@
 demostracion arquitectura limpia
 
 # Compilar proyecto
-gradle build -x test
+gradlew build -x test
 
 # Correr proyecto
-gradle bootRun
+gradlew bootRun
